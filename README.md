@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pial Hasan</h1>
 <h3 align="center">I am a passionate Frontend Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pialhasandev&theme=tokyonight" alt="pialhasandev" /></a> </p>
-
 - 🔭 I'm currently working on **https://github.com/pialhasandev/jh_photography**
 - 🌱 I'm currently learning **Backend Development**
 - 💬 Ask me about **React,Next.js,TailwindCSS.**
@@ -65,7 +63,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pialhasandev&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pialhasandev&theme=tokyonight&hide_border=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pialhasandev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" /><br/>
 <img align="center" src="https://streak-stats.demolab.com/?user=pialhasandev&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
 </p>
