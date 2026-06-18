@@ -61,13 +61,6 @@
 <p><sub><b>Built with:</b> Next.js,TailwindCSS</sub></p>
 
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pialhasandev&theme=tokyonight&hide_border=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pialhasandev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" /><br/>
-<img align="center" src="https://streak-stats.demolab.com/?user=pialhasandev&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
-</p>
-
 <br />
 
 <p align="center">
